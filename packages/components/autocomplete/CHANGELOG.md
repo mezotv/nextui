@@ -1,5 +1,21 @@
 # @nextui-org/autocomplete
 
+## 2.0.11
+
+### Patch Changes
+
+- [#2429](https://github.com/nextui-org/nextui/pull/2429) [`bae544d19`](https://github.com/nextui-org/nextui/commit/bae544d1985dc093aedfa652578acdfcdae83983) Thanks [@wingkwong](https://github.com/wingkwong)! - fixed isReadOnly logic in Autocomplete (#2420)
+
+- Updated dependencies []:
+  - @nextui-org/aria-utils@2.0.16
+  - @nextui-org/react-utils@2.0.11
+  - @nextui-org/listbox@2.1.17
+  - @nextui-org/popover@2.1.16
+  - @nextui-org/button@2.0.28
+  - @nextui-org/input@2.1.18
+  - @nextui-org/scroll-shadow@2.1.14
+  - @nextui-org/spinner@2.0.26
+
 ## 2.0.10
 
 ### Patch Changes

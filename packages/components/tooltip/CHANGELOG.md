@@ -1,5 +1,15 @@
 # @nextui-org/tooltip
 
+## 2.0.31
+
+### Patch Changes
+
+- [#2079](https://github.com/nextui-org/nextui/pull/2079) [`0a10de8d0`](https://github.com/nextui-org/nextui/commit/0a10de8d08fac7ce4aa995a66d9f28c91602e04d) Thanks [@black197](https://github.com/black197)! - Fix #1840 let Tooltip allow non-ReactElement children
+
+- Updated dependencies []:
+  - @nextui-org/aria-utils@2.0.16
+  - @nextui-org/react-utils@2.0.11
+
 ## 2.0.30
 
 ### Patch Changes

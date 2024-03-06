@@ -1,5 +1,13 @@
 # @nextui-org/tabs
 
+## 2.0.27
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @nextui-org/aria-utils@2.0.16
+  - @nextui-org/react-utils@2.0.11
+
 ## 2.0.26
 
 ### Patch Changes

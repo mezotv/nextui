@@ -1,5 +1,12 @@
 # @nextui-org/modal
 
+## 2.0.30
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @nextui-org/react-utils@2.0.11
+
 ## 2.0.29
 
 ### Patch Changes

@@ -1,5 +1,14 @@
 # @nextui-org/table
 
+## 2.0.29
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @nextui-org/react-utils@2.0.11
+  - @nextui-org/checkbox@2.0.26
+  - @nextui-org/spacer@2.0.25
+
 ## 2.0.28
 
 ### Patch Changes

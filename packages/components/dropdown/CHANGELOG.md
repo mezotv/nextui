@@ -1,5 +1,16 @@
 # @nextui-org/dropdown
 
+## 2.1.18
+
+### Patch Changes
+
+- [#2450](https://github.com/nextui-org/nextui/pull/2450) [`0a9982d3e`](https://github.com/nextui-org/nextui/commit/0a9982d3efe6ac8dfc25438f21598c8fe53de4db) Thanks [@wingkwong](https://github.com/wingkwong)! - fixed getMenuTriggerProps mergeProps (#2448)
+
+- Updated dependencies []:
+  - @nextui-org/react-utils@2.0.11
+  - @nextui-org/menu@2.0.18
+  - @nextui-org/popover@2.1.16
+
 ## 2.1.17
 
 ### Patch Changes
